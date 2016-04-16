@@ -1,0 +1,17 @@
+.from ul{
+ margin: 0;
+ padding: 0;
+}
+.from input{
+ width: 250px;
+}
+.from li{
+  list-style: none; 
+  font-size: 10px;
+}
+.from a{
+  width: 50px;  
+}
+a .zhuche{
+  width: 50px;  
+}
